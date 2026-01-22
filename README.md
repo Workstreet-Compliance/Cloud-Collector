@@ -103,18 +103,18 @@ package = collector.collect_all()
 
 | Category | AWS | GCP | Azure |
 |:---------|:----|:----|:------|
-| ** IAM** | Users, roles, policies, MFA | IAM bindings, service accounts | RBAC, custom roles |
-| ** Logging** | CloudTrail | Audit logs, sinks | Activity logs, diagnostics |
-| ** Storage** | S3 policies, encryption | GCS IAM, public access | Storage account security |
-| ** Security** | Security Hub findings | Security Command Center | Defender for Cloud |
-| ** Encryption** | KMS keys, rotation | Cloud KMS key rings | Key Vault config |
-| ** Network** | VPC, security groups, NACLs | Firewall rules, VPC | NSGs, VNets |
+| **IAM** | Users, roles, policies, MFA | IAM bindings, service accounts | RBAC, custom roles |
+| **Logging** | CloudTrail | Audit logs, sinks | Activity logs, diagnostics |
+| **Storage** | S3 policies, encryption | GCS IAM, public access | Storage account security |
+| **Security** | Security Hub findings | Security Command Center | Defender for Cloud |
+| **Encryption** | KMS keys, rotation | Cloud KMS key rings | Key Vault config |
+| **Network** | VPC, security groups, NACLs | Firewall rules, VPC | NSGs, VNets |
 
 ---
 
 ## Frameworks
 
-<table>
+<table width="100%">
 <tr>
 <td width="25%" align="center">
 <h3>SOC 2</h3>

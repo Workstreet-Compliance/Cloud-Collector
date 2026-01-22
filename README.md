@@ -269,7 +269,7 @@ This tool collects **read-only** evidence. It does not modify any cloud resource
 
 - Always use least-privilege credentials
 - Review collected evidence before sharing externally
-- For security issues, email **security@workstreet.co**
+- For security issues, email **ryan@workstreet.co**
 
 ---
 

@@ -1,0 +1,34 @@
+{
+  "name": "evidence-collector",
+  "version": "1.0.0",
+  "description": "Automated compliance evidence collection for AWS, GCP, and Azure. Collects IAM policies, logging configurations, storage security, encryption keys, and network controls with automatic mapping to SOC 2, ISO 27001, NIST 800-53, and CIS benchmarks.",
+  "author": "workstreet",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/workstreet/compliance-skills"
+  },
+  "keywords": [
+    "compliance",
+    "soc2",
+    "iso27001",
+    "nist",
+    "cis",
+    "aws",
+    "gcp",
+    "azure",
+    "audit",
+    "evidence",
+    "security"
+  ],
+  "skills": [
+    {
+      "name": "evidence-collector",
+      "path": "skills/evidence-collector",
+      "description": "Multi-cloud compliance evidence collection"
+    }
+  ],
+  "dependencies": {
+    "python": ">=3.10"
+  }
+}

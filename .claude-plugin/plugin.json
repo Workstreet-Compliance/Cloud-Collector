@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "name": "evidence-collector",
+  "display_name": "Compliance Evidence Collector",
+  "version": "1.0.0",
+  "description": "Automated compliance evidence collection for AWS, GCP, and Azure with SOC 2, ISO 27001, NIST 800-53, and CIS benchmark mappings.",
+  "author": {
+    "name": "workstreet"
+  },
+  "entrypoint": "skills/evidence-collector/SKILL.md",
+  "capabilities": [
+    "file_read",
+    "file_write",
+    "terminal"
+  ],
+  "activation": {
+    "triggers": [
+      "compliance",
+      "evidence",
+      "audit",
+      "soc 2",
+      "soc2",
+      "iso 27001",
+      "iso27001",
+      "nist",
+      "cis benchmark",
+      "security evidence",
+      "collect evidence"
+    ]
+  },
+  "resources": {
+    "scripts": "skills/evidence-collector/scripts",
+    "references": "skills/evidence-collector/references"
+  },
+  "requirements": {
+    "python": ">=3.10",
+    "packages": "requirements.txt"
+  },
+  "tags": [
+    "compliance",
+    "security",
+    "cloud",
+    "aws",
+    "gcp",
+    "azure",
+    "audit"
+  ]
+}

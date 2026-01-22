@@ -34,14 +34,14 @@ Generate audit-ready evidence packages with automatic mapping to **SOC 2**, **IS
 ### Via skills.sh
 
 ```bash
-npx skills add workstreet/compliance-skills
+npx skills add Workstreet-Compliance/Cloud-Collector
 ```
 
 ### Via pip
 
 ```bash
-git clone https://github.com/workstreet/compliance-skills.git
-cd compliance-skills
+git clone https://github.com/Workstreet-Compliance/Cloud-Collector.git
+cd Cloud-Collector
 pip install -r requirements.txt
 ```
 

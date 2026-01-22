@@ -1,3 +1,8 @@
+---
+name: cloud-collector
+description: Automated compliance evidence collection for AWS, GCP, and Azure with SOC 2, ISO 27001, NIST 800-53, and CIS benchmark mappings.
+---
+
 # Evidence Collector Skill
 
 Automated compliance evidence collection for AWS, GCP, and Azure cloud environments.

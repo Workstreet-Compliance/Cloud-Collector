@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="cloud_collector.png" alt="Compliance Evidence Collector" width="400">
+  <img src="cloud_collector.png" alt="Cloud Collector" width="400">
 </p>
 
-<h1 align="center">Compliance Evidence Collector</h1>
+<h1 align="center">Cloud Collector</h1>
 
 <p align="center">
   <strong>Automated compliance evidence collection for AWS, GCP, and Azure</strong>
